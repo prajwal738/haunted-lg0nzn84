@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/prajwal738.haunted-lg0nzn84",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Y3iXpmcfOIcNVGPQ6ldF --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
